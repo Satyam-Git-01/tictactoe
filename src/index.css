@@ -1,0 +1,16 @@
+.block {
+  width: 150px;
+  height: 150px;
+  border: 5px solid black;
+  background-size: cover;
+  display: inline-block;
+}
+
+.mark1 {
+  background-image: url("./images/zero.jpg");
+  size: 50px;
+}
+
+.mark2 {
+  background-image: url("./images/cross.png");
+}
